@@ -4,10 +4,10 @@
 
 **Table of Contents**
 1. [Introduction to pandas](#introduction-to-pandas)
-2. Installing pandas
-3. Importing pandas
-4. Creating Series
-5. Creating DataFrame
+2. [Installing pandas](#installing-pandas)
+3. [Importing pandas](#importing-pandas)
+4. [Creating Series](#creating-series)
+5. [Creating DataFrame]
 6. Reading Data from CSV
 7. Data Exploration
 8. Data Cleaning
