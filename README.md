@@ -3,7 +3,7 @@
 > This guide covers the pandas library in Python, from the basics to intermediate functionalities.
 
 **Table of Contents**
-1. Introduction to pandas
+1. [Introduction to pandas](Introduction to pandas)
 2. Installing pandas
 3. Importing pandas
 4. Creating Series
