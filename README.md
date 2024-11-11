@@ -47,7 +47,6 @@ import pandas as pd
 A Series is a one-dimensional array-like object that can hold any data type.
 
 **Example:**
-
 ```python
 import pandas as pd
 
@@ -58,7 +57,6 @@ print(s)
 ```
 
 **Output:**
-
 ```go
 0    10
 1    20
